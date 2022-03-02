@@ -1,2 +1,5 @@
 # oslab
-Operating Systems 2021-22 lab projects
+Lab projects for Operating Systems
+
+- Natalia Bourdi
+- Anna Mylona
