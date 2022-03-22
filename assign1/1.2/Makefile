@@ -1,2 +1,4 @@
-fconc: fconc.c
-  gcc -o fconc fconc.c
+fconc: fconc.o
+        gcc -o fconc fconc.o
+fconc.o: fconc.c
+        gcc -Wall -c fconc.c
